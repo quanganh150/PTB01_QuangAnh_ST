@@ -15,4 +15,4 @@ z = 9.5
 print(a)
 print (x)
 print (y)
-pritn (z)
+print (z)

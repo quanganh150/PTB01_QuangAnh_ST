@@ -1,10 +1,10 @@
 #Ôn buổi 1
 # biến print: hiển thị nội dung ra màn hình
 # Các biến trong python 
-# int
-# bool
-# float
-# string
+# int = số nguyên
+# bool = True/False
+# float = số thực
+# string = chữ
 # lệnh type()
 b = ("Python")
 print(type(b))

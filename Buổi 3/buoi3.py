@@ -36,3 +36,4 @@ kq3_1 = tien_t//mot_t
 print("Số tháng kiếm được hơn 367.329.673 VND là: " + str((kq3_1 + 1)) + "tháng")
 kq3_2 = ((kq3_1 + 1)*mot_t)/kq1
 print("Số đô la của tháng hơn đó là: " + str(kq3_2)+ "$")
+

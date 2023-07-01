@@ -65,8 +65,7 @@
 #   print("Tháng " + str(quy ) + " là quý 3")
 #else: print("Tháng " + str(quy ) + " là quý 4")
 
-# bài
-
+# bài 5
 
 
 

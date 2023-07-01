@@ -4,7 +4,7 @@
 #3: bằng
 #4: lớn hơn hoặc bằng
 #5: bé hơn hoặc bằng
-#6:
+#6: So sánh khác
 #n = int(input("Nhập N = "))
 # điều kiện dạng khuyết
 #if (n % 2 == 0):
@@ -24,6 +24,8 @@
 #elif (qua == 3):
 #    print ("Bỏ giỏ C")
 #   print ("Bỏ giỏ D"):
+# % = chia lấy dư
+# // = chia lấy phần nguyên
 
 #BTVN
 # bài 1
@@ -44,3 +46,28 @@
   #print("Học sinh trung bình")
 #else:
  # print("Học sinh yếu")
+
+# bài 3
+
+#x = int(input("Nhập năm: "))
+#if (x % 4 == 0 or x % 400 == 0 ) :
+ #   print("Năm nhuận") 
+#else: print("Không phải năm nhuận") 
+
+# bài 6
+#import random
+#quy = random.randint(1,12)
+#if  (quy == 1 and quy = 3):
+#    print("Tháng " + str(quy) + " là quý 1")
+#elif (quy >= 4 and quy <= 6):
+#    print("Tháng " + str(quy ) + " là quý 2")
+#elif (quy >= 7 and quy <= 9):
+#   print("Tháng " + str(quy ) + " là quý 3")
+#else: print("Tháng " + str(quy ) + " là quý 4")
+
+# bài
+
+
+
+
+

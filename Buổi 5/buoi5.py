@@ -7,9 +7,9 @@ b = 2
 T = int(input("Loại tài liệu: "))
 P = int(input("Số trang: "))
 C = int(input("Số bản cần in: "))
-x = 6
 if(T == 1):
    k = 1 * P * C
    print("Số lượng giấy cần dùng: " + str(k))
 if(T == 2):
-   print("Số lượng giấy cần dùng: 35")
+   k = ((P - 1) / 2 +1) * C
+   print("Số lượng giấy cần dùng: " + str(k))
